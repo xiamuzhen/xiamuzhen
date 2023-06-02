@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Env-Node.js-informational?style=flat&logo=nodedotjs)
 ![](https://img.shields.io/badge/Env-Tomcat-informational?style=flat&logo=apachetomcat)
