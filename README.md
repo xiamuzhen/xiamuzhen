@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 <!-- 数据库管理系统 -->
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql)
-![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=mariadb)
-![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql)
+![](https://img.shields.io/badge/DBMS-MariaDB-informational?style=flat&logo=mariadb)
+![](https://img.shields.io/badge/DBMS-Redis-informational?style=flat&logo=redis)
+![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat&logo=mongodb)
 <!-- 开发框架 -->
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot)
