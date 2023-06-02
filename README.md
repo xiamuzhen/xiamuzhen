@@ -65,3 +65,5 @@ Here are some ideas to get you started:
 
 ## ⚡ Fun fact:
 <h4>摇滚公路和流行大道交界处的黄色潜水艇</h4>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiamuzhen)](https://github.com/xiamuzhen/github-readme-stats)
