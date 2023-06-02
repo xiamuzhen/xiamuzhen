@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot)
 ![](https://img.shields.io/badge/Framework-SpringSecurity-informational?style=flat&logo=springsecurity)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react)
 <!-- 操作系统 -->
 ![](https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat)
 ![](https://img.shields.io/badge/OS-RockyLinux-informational?style=flat&logo=rockylinux)
