@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 
 ## 🌱 I’m currently learning ...
-![](https://img.shields.io/badge/Programming-C-informational?style=flat&logo=c)
-![](https://img.shields.io/badge/Programming-C++-informational?style=flat&logo=cplusplus)
-![](https://img.shields.io/badge/Programming-JavaScript-informational?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Environment-Node.js-informational?style=flat&logo=nodedotjs)
-![](https://img.shields.io/badge/Environment-Tomcat-informational?style=flat&logo=apachetomcat)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql)
-![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Env-Node.js-informational?style=flat&logo=nodedotjs)
+![](https://img.shields.io/badge/Env-Tomcat-informational?style=flat&logo=apachetomcat)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql)
+![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring)
-![](https://img.shields.io/badge/System-Ubuntu-informational?style=flat&logo=ubuntu)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker)
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes)
 
