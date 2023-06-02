@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 <!-- 数据库 -->
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql)
+![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=mariadb)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb)
 <!-- 开发框架 -->
