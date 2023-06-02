@@ -66,8 +66,6 @@ Here are some ideas to get you started:
 ## ⚡ Fun fact:
 <h4>摇滚公路和流行大道交界处的黄色潜水艇</h4>
 
-## ✔️ GitHub stats
-[![Shiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiamuzhen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎩 Top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuzhen)](https://github.com/anuraghazra/github-readme-stats)
+## ✔️ Statistics
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiamuzhen&show_icons=true&include_all_commits=true&hide_border=true" alt="Shiro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuzhen&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
