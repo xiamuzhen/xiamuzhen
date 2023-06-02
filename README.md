@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
 <!-- 数据库管理系统 -->
 ![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/DBMS-MariaDB-informational?style=flat&logo=mariadb)
@@ -67,5 +68,5 @@ Here are some ideas to get you started:
 <h4>摇滚公路和流行大道交界处的黄色潜水艇</h4>
 
 ## ✔️ Statistics
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiamuzhen&show_icons=true&include_all_commits=true&hide_border=true" alt="Shiro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuzhen&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiamuzhen&show_icons=true&hide_border=true" alt="Shiro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuzhen&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
