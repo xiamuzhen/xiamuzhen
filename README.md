@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋; I'm Shiro</h1>
+<h1 align="center">Hello /Hej /你好 folks ☕ I'm Shiro</h1>
 <h3 align="center">是少年哪吒 也是66号公路流浪者</h3>
 
-## 🔭 I’m currently living in ...
-<h4>摇滚公路和流行大道交界处的黄色潜水艇</h4>
-
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning
 <!-- 编程语言 -->
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus)
@@ -67,4 +64,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/ASF-ApacheTomcat-informational?style=flat&logo=apachetomcat)
 
 ## ⚡ Fun fact:
-<h4>所见所领 皆是生活</h4>
+<h4>摇滚公路和流行大道交界处的黄色潜水艇</h4>
