@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-<!-- 数据库 -->
+<!-- 数据库管理系统 -->
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=mariadb)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis)
