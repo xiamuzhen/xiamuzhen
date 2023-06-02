@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat)
 ![](https://img.shields.io/badge/OS-RockyLinux-informational?style=flat&logo=rockylinux)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
+![](https://img.shields.io/badge/OS-KaliLinux-informational?style=flat&logo=kalilinux)
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux)
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=gentoo)
 <!-- 工具 -->
