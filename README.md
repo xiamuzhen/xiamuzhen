@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 <h3 align="center">是少年哪吒 也是66号公路流浪者</h3>
 
 ## 🌱 I’m currently learning
-<!-- 编程语言 -->
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
+
+<!-- 编程语言 -->
 <!--
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus)
@@ -49,7 +53,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- 操作系统 -->
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 <!--
 ![](https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat)
 ![](https://img.shields.io/badge/OS-RockyLinux-informational?style=flat&logo=rockylinux)
