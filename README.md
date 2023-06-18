@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react)
 
 <!-- 编程语言 -->
 <!--
