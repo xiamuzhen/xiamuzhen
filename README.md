@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 <!-- 编程语言 -->
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+<!--
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go)
@@ -27,34 +29,45 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
+-->
+
 <!-- 数据库管理系统 -->
-![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql)
 <!-- 
+![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/DBMS-MariaDB-informational?style=flat&logo=mariadb)
 ![](https://img.shields.io/badge/DBMS-Redis-informational?style=flat&logo=redis)
 ![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat&logo=mongodb)
 -->
+
 <!-- 开发框架 -->
+<!--
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot)
 ![](https://img.shields.io/badge/Framework-SpringSecurity-informational?style=flat&logo=springsecurity)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs)
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react)
+-->
+
 <!-- 操作系统 -->
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 <!--
 ![](https://img.shields.io/badge/OS-RedHat-informational?style=flat&logo=redhat)
 ![](https://img.shields.io/badge/OS-RockyLinux-informational?style=flat&logo=rockylinux)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 ![](https://img.shields.io/badge/OS-KaliLinux-informational?style=flat&logo=kalilinux)
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux)
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=gentoo)
 -->
+
 <!-- 工具 -->
+<!--
 ![](https://img.shields.io/badge/Tool-Ansible-informational?style=flat&logo=ansible)
 ![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=jenkins)
 ![](https://img.shields.io/badge/Tool-Prometheus-informational?style=flat&logo=prometheus)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker)
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes)
+-->
+
 <!-- Apache -->
 <!--
 ![](https://img.shields.io/badge/ASF-Apache-informational?style=flat&logo=apache)
