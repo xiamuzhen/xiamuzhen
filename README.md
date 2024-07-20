@@ -22,17 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">是少年哪吒 也是66号公路流浪者</h3>
 -->
 
-## 🌱 I’m currently learning
-![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot)
-![](https://img.shields.io/badge/Framework-SpringSecurity-informational?style=flat&logo=springsecurity)
-![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker)
-![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes)
+## 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs)
