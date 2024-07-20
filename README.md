@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/Linux-informational?style=flat&amp;logo=linux&amp;logoColor=FCC624>
-<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&amp;logo=kubernetes&amp;logoColor=326CE5">
-<img src="https://img.shields.io/badge/Golang-informational?style=flat&amp;logo=go&amp;logoColor=00ADD8">
+<img src="https://img.shields.io/badge/Linux-informational?style=flat&amp;logo=linux&amp>
+<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&amp;logo=kubernetes&amp>
+<img src="https://img.shields.io/badge/Golang-informational?style=flat&amp;logo=go&amp>
 
 <!-- 编程语言 -->
 <!--
