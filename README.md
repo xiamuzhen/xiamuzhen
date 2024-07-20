@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&color=white)
 ### DBMS
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
+![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=white)
 ### Apache
 ![](https://img.shields.io/badge/ApacheHadoop-informational?style=flat&logo=apachehadoop&color=white)
 ![](https://img.shields.io/badge/ApacheHive-informational?style=flat&logo=apachehive&color=white)
