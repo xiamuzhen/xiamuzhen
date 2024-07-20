@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/ArchLinux-informational?style=flat&logo=archlinux&color=white)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&color=blue)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&color=blue)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&color=black)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&color=black)
 ![](https://img.shields.io/badge/ApacheHadoop-informational?style=flat&logo=apachehadoop&color=white)
 ![](https://img.shields.io/badge/ApacheHive-informational?style=flat&logo=apachehive&color=white)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
