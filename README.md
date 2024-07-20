@@ -23,16 +23,14 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning ...
-![](https://img.shields.io/badge/ArchLinux-informational?style=flat&logo=archlinux&color=white)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&color=black)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&color=black)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&color=white)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=white)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&color=white)
 ![](https://img.shields.io/badge/ApacheHadoop-informational?style=flat&logo=apachehadoop&color=white)
 ![](https://img.shields.io/badge/ApacheHive-informational?style=flat&logo=apachehive&color=white)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=springboot&color=white)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=white)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&color=white)
-![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&color=white)
 
 <!-- 编程语言 -->
 <!--
