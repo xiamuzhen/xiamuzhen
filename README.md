@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/ArchLinux-informational?style=flat&logo=archlinux)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus)
+![](https://img.shields.io/badge/ApacheHadoop-informational?style=flat&logo=apachehadoop)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=springboot)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs)
+![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react)
 
 <!-- 编程语言 -->
 <!--
