@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning ...
-![](https://img.shields.io/badge/ArchLinux-informational?style=flat&logo=archlinux)
+![](https://img.shields.io/badge/ArchLinux-informational?style=flat&logo=archlinux&logocorlor=violet)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=springboot)
