@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning ...
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs)
-![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react)
+<img src="https://img.shields.io/badge/Linux-informational?style=flat&amp;logo=linux&amp;logoColor=black&amp;color=2bbc8a" alt="">
+<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&amp;logo=kubernetes&amp;logoColor=white" alt="">
+<img src="https://img.shields.io/badge/OpenShift-informational?style=flat&amp;logo=Red Hat Open Shift&amp;logoColor=red" alt="">
+<img src="https://img.shields.io/badge/Golang-informational?style=flat&amp;logo=go&amp;logoColor=lightblue" alt="">
+<img src="https://img.shields.io/badge/Python-informational?style=flat&amp;logo=python&amp;logoColor=yellow&amp;color=2bbc8a" alt="">
 
 <!-- 编程语言 -->
 <!--
