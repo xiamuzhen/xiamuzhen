@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h1 align="center">Hello /Hej /你好 folks ☕ I'm Xiamuzhen</h1>
 <h3 align="center">是少年哪吒 也是66号公路流浪者</h3>
+-->
 
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux)
@@ -96,8 +98,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/ASF-ApacheTomcat-informational?style=flat&logo=apachetomcat)
 -->
 
+<!--
 ## ⚡ Fun fact:
 <h4>摇滚公路和流行大道交界处的黄色潜水艇</h4>
+-->
 
 ## ✔️ Statistics
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiamuzhen&show_icons=true&hide_border=true" alt="Shiro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiamuzhen&layout=compact&hide_border=true" /></a> |
