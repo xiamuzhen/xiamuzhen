@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/Linux-informational?style=flat&amp;logo=linux&amp>
-<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&amp;logo=kubernetes&amp>
-<img src="https://img.shields.io/badge/Golang-informational?style=flat&amp;logo=go&amp>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs)
 
 <!-- 编程语言 -->
 <!--
