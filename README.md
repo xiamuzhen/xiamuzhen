@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&color=white)
 ![](https://img.shields.io/badge/RockyLinux-informational?style=flat&logo=rockylinux&color=white)
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&color=white)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=white)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&color=white)
 ![](https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&color=white)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=springboot&color=white)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&color=white)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&color=white)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
-![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=white)
 
 <!-- 编程语言 -->
 <!--
