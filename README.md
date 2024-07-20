@@ -23,14 +23,20 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 I’m currently learning ...
+### Linux
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&color=white)
+![](https://img.shields.io/badge/RockyLinux-informational?style=flat&logo=rockylinux&color=white)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=white)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&color=white)
-![](https://img.shields.io/badge/ApacheHadoop-informational?style=flat&logo=apachehadoop&color=white)
-![](https://img.shields.io/badge/ApacheHive-informational?style=flat&logo=apachehive&color=white)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
+### Framework
+![](https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&color=white)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=springboot&color=white)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&color=white)
+### DBMS
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
+### Apache
+![](https://img.shields.io/badge/ApacheHadoop-informational?style=flat&logo=apachehadoop&color=white)
+![](https://img.shields.io/badge/ApacheHive-informational?style=flat&logo=apachehive&color=white)
 
 <!-- 编程语言 -->
 <!--
