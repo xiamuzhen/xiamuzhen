@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&color=white)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&color=white)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus)
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&color=white)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=white)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&color=white)
